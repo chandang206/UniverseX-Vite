@@ -41,7 +41,7 @@ camera.position.z = 20;
 scene.add(camera);
 
 // background //
-const darkB = new THREE.TextureLoader().load('../media/dark.jpeg');
+const darkB = new THREE.TextureLoader().load('./media/dark.jpeg');
 scene.background = darkB;
 
 
