@@ -4,7 +4,7 @@
 
 ## Demo
 
-Video demo: 
+Page demo: https://chandang206.github.io/UniverseX-Vite/
 
 # 🪐 UniverseX
 
